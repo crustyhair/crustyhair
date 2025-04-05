@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Karthik reddy
-- 👀 I’m interested in signal and image processing
-- 🌱 I’m currently a Masters student in Electrical Engineering at RIT
-- 💞️ I’m looking to collaborate on CNN's and any machine learning stuff
-- 📫 reach me at kd3400@rit.edu
+- Hi, I’m Karthik reddy
+- I’m interested in signal and image processing
+- I’m currently a Masters student in Electrical Engineering at RIT
+-  I’m looking to collaborate on Image and Video Compression or any learning based compression techniques.
+- reach me at kd3400@rit.edu
 
 
 <!---
